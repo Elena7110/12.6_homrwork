@@ -204,7 +204,6 @@
 				echo '<div style="font-size:25px; font-weight:bolt; text-decoration:underline; color:purple">Исходный
 					массив:'.'</div>';
 				echo '<br>';
-				// print_r($example_persons_array);
 				print_r($example_persons_array);
 				echo '<br>
 				<hr>';
